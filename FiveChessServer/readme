@@ -1,12 +1,12 @@
 
-How to compile and run a fivechess server:
-1.Open a terminal.
+How to build and run a fivechess server:
+1.Open a terminal in linux.
 2.Input 'cd ./FiveChessServer'.
 3.Input 'make' to compile the code.
 4.Input 'make clean' to remove such '*.o' files.
-5.Type 'fivechess' to run a server. 
+5.Input 'fivechess' to run a server. 
 
-Note: Before you run a server, you need to set the configration of a server by
+Note: Before you run a server, you need to set the configration for a server by the
      'config.cfg' file according to your own machine.
 
 Below is my developing environment:
