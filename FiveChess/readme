@@ -1,0 +1,9 @@
+
+How to build and run a FiveChess client:
+1.Open Qt Creator.
+2.Click 'Open a Projection' to open FiveChess projection.
+3.Click 'Build'>'run' to compile and run a FiveChess client.
+4.Set the configration for a client by 'config.cfg' file.
+5.Enjoy youself. 
+
+                   --ludx, 2018.8.29

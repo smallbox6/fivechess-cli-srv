@@ -1,0 +1,19 @@
+
+How to compile and run a fivechess server:
+1.Open a terminal.
+2.Input 'cd ./FiveChessServer'.
+3.Input 'make' to compile the code.
+4.Input 'make clean' to remove such '*.o' files.
+5.Type 'fivechess' to run a server. 
+
+Note: Before you run a server, you need to set the configration of a server by
+     'config.cfg' file according to your own machine.
+
+Below is my developing environment:
+  Ubuntu 18.04 (x86_64)
+  Libevent-2.1.8-stable
+  MySQL-5.7.23 (x86_64)
+  VsCode 
+
+May you have a nice time.
+                   --ludx, 2018.8.29

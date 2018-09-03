@@ -1,0 +1,18 @@
+﻿QListWidget{
+        background-color:rgba(32,32,32,50);
+        font-size: 12px;
+        border:rgb(81,81,81);
+}
+QListWidget::item{
+        height: 20px;
+        border:none;
+}
+QListWidget::item:hover{
+    background-color:rgba(32,32,32,70);
+    border:none;
+}
+QListWidget::item:selected{
+        background-color:rgba(32,32,32,90);
+        color:black;
+        border:none;
+}

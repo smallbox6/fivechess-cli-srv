@@ -1,0 +1,13 @@
+QCheckBox{
+        spacing: 5px;
+        font-size: 14px;
+        color: rgb(41, 112, 240);
+}
+
+QCheckBox::indicator:enabled:unchecked {
+        image: url(:/Image/IMG/switchOff.png);
+}
+
+QCheckBox::indicator:enabled:checked {
+        image: url(:/Image/IMG/switchOn.png);
+}

@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>IMG/closeImg.png</file>
+        <file>IMG/minImg.png</file>
+        <file>IMG/portrait.jpg</file>
+        <file>IMG/switchOff.png</file>
+        <file>IMG/switchOn.png</file>
+        <file>IMG/online.png</file>
+        <file>IMG/playing.png</file>
+        <file>IMG/wood.jpg</file>
+        <file>IMG/white_pieces.png</file>
+        <file>IMG/black_pieces.png</file>
+        <file>IMG/counterpart.png</file>
+        <file>IMG/me.png</file>
+        <file>IMG/listhide.png</file>
+        <file>IMG/listshow.png</file>
+        <file>IMG/checkbox_off.png</file>
+        <file>IMG/checkbox_on.png</file>
+        <file>IMG/radio_off.png</file>
+        <file>IMG/radio_on.png</file>
+        <file>IMG/closeImg_hover.png</file>
+        <file>IMG/minImg_hover.png</file>
+        <file>IMG/logo.png</file>
+        <file>IMG/logon_closeImg.png</file>
+        <file>IMG/logon_closeImg_hover.png</file>
+        <file>IMG/Cursor.png</file>
+        <file>IMG/background01.jpeg</file>
+        <file>IMG/lose.png</file>
+        <file>IMG/match.png</file>
+        <file>IMG/ready.png</file>
+        <file>IMG/win.png</file>
+        <file>IMG/dlgclosehover.png</file>
+        <file>IMG/dlgclosenormal.png</file>
+    </qresource>
+    <qresource prefix="/mystle">
+        <file>style/checkbox_style.qss</file>
+        <file>style/QListWidget.qss</file>
+        <file>style/sendbutton.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>sound/chessone.wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+    </qresource>
+</RCC>
